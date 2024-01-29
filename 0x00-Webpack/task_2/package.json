@@ -16,7 +16,7 @@
     "output",
     "webpack_plugins"
   ],
-  "author": "Osamede Osunde",
+  "author": "Ons Hafi",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.2.0",
