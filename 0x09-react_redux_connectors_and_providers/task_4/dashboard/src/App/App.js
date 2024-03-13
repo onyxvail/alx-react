@@ -16,7 +16,7 @@ import {
   displayNotificationDrawer,
   hideNotificationDrawer,
   loginRequest,
-  logout,
+  logout, 
 } from "../actions/uiActionCreators";
 
 const listCourses = [

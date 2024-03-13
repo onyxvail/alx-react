@@ -112,7 +112,7 @@
         "type": "default",
         "value": "Cursus metus aliquam eleifend mi in nulla posuere. "
       }
-    },
+    }, 
     {
       "id": "5debd76413f0d5e5429c28a0",
       "author": {
@@ -124,7 +124,7 @@
         "email": "marshall.wynn@holberton.nz",
         "picture": "http://placehold.it/32x32",
         "age": 26
-      },
+      }, 
       "context": {
         "guid": "8094c267-ab84-47e1-8801-58ddd23f3b2a",
         "isRead": false,
